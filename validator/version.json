@@ -1,6 +1,6 @@
 {
   "validator": "1.0.0",
-  "oracle": "1.2.1",
+  "oracle": "1.2.2",
   "liquidation": "1.0.2",
   "stability": "1.0.0"
 }
